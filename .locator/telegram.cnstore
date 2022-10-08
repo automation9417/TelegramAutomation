@@ -1,0 +1,1050 @@
+{
+	"id": "bd0cfcfe-1625-44a6-b8e7-77955a996a77",
+	"name": "telegram",
+	"nodes": [],
+	"locators": [
+		{
+			"id": "da742306-42c1-4998-8fe5-f3543dab7e0d",
+			"name": "contact_search",
+			"filePath": "6fd911f8-ecc1-478d-93fa-4a65e7e16319.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Telegram"
+				},
+				"filePath": {
+					"value": "Telegram.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "TWidget"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "Telegram (*)"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"automationId": {
+										"value": "",
+										"excluded": true
+									},
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "group"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "TWidget"
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "",
+										"excluded": true
+									},
+									"index": {
+										"value": "2"
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "TWidget"
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "",
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"automationId": {
+														"value": "",
+														"excluded": true
+													},
+													"isPassword": {
+														"value": "False",
+														"excluded": true
+													},
+													"orientation": {
+														"value": "None",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"className": {
+														"value": "TWidget"
+													},
+													"controlMetaType": "Uia",
+													"name": {
+														"value": "",
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"automationId": {
+																"value": "",
+																"excluded": true
+															},
+															"isPassword": {
+																"value": "False",
+																"excluded": true
+															},
+															"orientation": {
+																"value": "None",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"className": {
+																"value": "TWidget"
+															},
+															"controlMetaType": "Uia",
+															"name": {
+																"value": "",
+																"excluded": true
+															},
+															"index": {
+																"value": "2"
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"automationId": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"isPassword": {
+																		"value": "False",
+																		"excluded": true
+																	},
+																	"orientation": {
+																		"value": "None",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"className": {
+																		"value": "TWidget"
+																	},
+																	"controlMetaType": "Uia",
+																	"name": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"automationId": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"isPassword": {
+																				"value": "False",
+																				"excluded": true
+																			},
+																			"orientation": {
+																				"value": "None",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "edit"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"className": {
+																				"value": "Ui::FlatInput"
+																			},
+																			"controlMetaType": "Uia",
+																			"name": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "cfb3f34a-1f3d-4903-a372-630db92ecf05",
+			"name": "content",
+			"filePath": "95f121c1-c04b-4dcc-be13-c893db1460c8.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Telegram"
+				},
+				"filePath": {
+					"value": "Telegram.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "TWidget"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "Telegram (*)"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"automationId": {
+										"value": "",
+										"excluded": true
+									},
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "group"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "TWidget"
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "",
+										"excluded": true
+									},
+									"index": {
+										"value": "2"
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "TWidget"
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "",
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"automationId": {
+														"value": "",
+														"excluded": true
+													},
+													"isPassword": {
+														"value": "False",
+														"excluded": true
+													},
+													"orientation": {
+														"value": "None",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"className": {
+														"value": "TWidget"
+													},
+													"controlMetaType": "Uia",
+													"name": {
+														"value": "",
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"automationId": {
+																"value": "",
+																"excluded": true
+															},
+															"isPassword": {
+																"value": "False",
+																"excluded": true
+															},
+															"orientation": {
+																"value": "None",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"className": {
+																"value": "TWidget"
+															},
+															"controlMetaType": "Uia",
+															"name": {
+																"value": "",
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"automationId": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"isPassword": {
+																		"value": "False",
+																		"excluded": true
+																	},
+																	"orientation": {
+																		"value": "None",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"className": {
+																		"value": "Ui::InputField"
+																	},
+																	"controlMetaType": "Uia",
+																	"name": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "1",
+																		"excluded": true
+																	}
+																},
+																"childControls": [
+																	{
+																		"identifier": {
+																			"automationId": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"isPassword": {
+																				"value": "False",
+																				"excluded": true
+																			},
+																			"orientation": {
+																				"value": "None",
+																				"excluded": true
+																			},
+																			"role": {
+																				"value": "edit"
+																			},
+																			"isDirectChild": {
+																				"value": "True"
+																			},
+																			"className": {
+																				"value": "QTextEdit"
+																			},
+																			"controlMetaType": "Uia",
+																			"name": {
+																				"value": "",
+																				"excluded": true
+																			},
+																			"index": {
+																				"value": "1",
+																				"excluded": true
+																			}
+																		},
+																		"childControls": [],
+																		"excluded": false
+																	}
+																],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "8ccb6e0f-61ac-4966-bd1a-f958825fc924",
+			"name": "contactsend_btn",
+			"filePath": "334e1566-0a6a-49d2-8d29-da079b9607d3.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Telegram"
+				},
+				"filePath": {
+					"value": "Telegram.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "TWidget"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "Telegram (*)"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"automationId": {
+										"value": "",
+										"excluded": true
+									},
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "group"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "TWidget"
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "",
+										"excluded": true
+									},
+									"index": {
+										"value": "2"
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "TWidget"
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "",
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"automationId": {
+														"value": "",
+														"excluded": true
+													},
+													"isPassword": {
+														"value": "False",
+														"excluded": true
+													},
+													"orientation": {
+														"value": "None",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"className": {
+														"value": "TWidget"
+													},
+													"controlMetaType": "Uia",
+													"name": {
+														"value": "",
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"automationId": {
+																"value": "",
+																"excluded": true
+															},
+															"isPassword": {
+																"value": "False",
+																"excluded": true
+															},
+															"orientation": {
+																"value": "None",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"className": {
+																"value": "TWidget"
+															},
+															"controlMetaType": "Uia",
+															"name": {
+																"value": "",
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"automationId": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"isPassword": {
+																		"value": "False",
+																		"excluded": true
+																	},
+																	"orientation": {
+																		"value": "None",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"className": {
+																		"value": "TWidget"
+																	},
+																	"controlMetaType": "Uia",
+																	"name": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "4"
+																	}
+																},
+																"childControls": [],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		},
+		{
+			"id": "3fc92513-2c3d-4213-b7f7-12a1d0634386",
+			"name": "chanelsend_btn",
+			"filePath": "ecca1ba1-466f-476b-b6a8-adddc87e6ba6.jpg",
+			"content": {
+				"automationType": "Uia",
+				"processName": {
+					"value": "Telegram"
+				},
+				"filePath": {
+					"value": "Telegram.exe"
+				},
+				"version": {
+					"value": "1.3"
+				},
+				"childControls": [
+					{
+						"identifier": {
+							"automationId": {
+								"value": "",
+								"excluded": true
+							},
+							"isPassword": {
+								"value": "False",
+								"excluded": true
+							},
+							"orientation": {
+								"value": "None",
+								"excluded": true
+							},
+							"role": {
+								"value": "window"
+							},
+							"isDirectChild": {
+								"value": "True"
+							},
+							"className": {
+								"value": "TWidget"
+							},
+							"controlMetaType": "Uia",
+							"name": {
+								"value": "Telegram (*)"
+							},
+							"index": {
+								"value": "1",
+								"excluded": true
+							}
+						},
+						"childControls": [
+							{
+								"identifier": {
+									"automationId": {
+										"value": "",
+										"excluded": true
+									},
+									"isPassword": {
+										"value": "False",
+										"excluded": true
+									},
+									"orientation": {
+										"value": "None",
+										"excluded": true
+									},
+									"role": {
+										"value": "group"
+									},
+									"isDirectChild": {
+										"value": "True"
+									},
+									"className": {
+										"value": "TWidget"
+									},
+									"controlMetaType": "Uia",
+									"name": {
+										"value": "",
+										"excluded": true
+									},
+									"index": {
+										"value": "2"
+									}
+								},
+								"childControls": [
+									{
+										"identifier": {
+											"automationId": {
+												"value": "",
+												"excluded": true
+											},
+											"isPassword": {
+												"value": "False",
+												"excluded": true
+											},
+											"orientation": {
+												"value": "None",
+												"excluded": true
+											},
+											"role": {
+												"value": "group"
+											},
+											"isDirectChild": {
+												"value": "True"
+											},
+											"className": {
+												"value": "TWidget"
+											},
+											"controlMetaType": "Uia",
+											"name": {
+												"value": "",
+												"excluded": true
+											},
+											"index": {
+												"value": "1",
+												"excluded": true
+											}
+										},
+										"childControls": [
+											{
+												"identifier": {
+													"automationId": {
+														"value": "",
+														"excluded": true
+													},
+													"isPassword": {
+														"value": "False",
+														"excluded": true
+													},
+													"orientation": {
+														"value": "None",
+														"excluded": true
+													},
+													"role": {
+														"value": "group"
+													},
+													"isDirectChild": {
+														"value": "True"
+													},
+													"className": {
+														"value": "TWidget"
+													},
+													"controlMetaType": "Uia",
+													"name": {
+														"value": "",
+														"excluded": true
+													},
+													"index": {
+														"value": "1",
+														"excluded": true
+													}
+												},
+												"childControls": [
+													{
+														"identifier": {
+															"automationId": {
+																"value": "",
+																"excluded": true
+															},
+															"isPassword": {
+																"value": "False",
+																"excluded": true
+															},
+															"orientation": {
+																"value": "None",
+																"excluded": true
+															},
+															"role": {
+																"value": "group"
+															},
+															"isDirectChild": {
+																"value": "True"
+															},
+															"className": {
+																"value": "TWidget"
+															},
+															"controlMetaType": "Uia",
+															"name": {
+																"value": "",
+																"excluded": true
+															},
+															"index": {
+																"value": "1",
+																"excluded": true
+															}
+														},
+														"childControls": [
+															{
+																"identifier": {
+																	"automationId": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"isPassword": {
+																		"value": "False",
+																		"excluded": true
+																	},
+																	"orientation": {
+																		"value": "None",
+																		"excluded": true
+																	},
+																	"role": {
+																		"value": "group"
+																	},
+																	"isDirectChild": {
+																		"value": "True"
+																	},
+																	"className": {
+																		"value": "TWidget"
+																	},
+																	"controlMetaType": "Uia",
+																	"name": {
+																		"value": "",
+																		"excluded": true
+																	},
+																	"index": {
+																		"value": "5"
+																	}
+																},
+																"childControls": [],
+																"excluded": false
+															}
+														],
+														"excluded": false
+													}
+												],
+												"excluded": false
+											}
+										],
+										"excluded": false
+									}
+								],
+								"excluded": false
+							}
+						],
+						"excluded": false
+					}
+				],
+				"parameters": {
+					"excluded": true,
+					"operator": "equals",
+					"value": ""
+				}
+			}
+		}
+	]
+}
