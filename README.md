@@ -11,17 +11,22 @@ It is a sample of using Python code to control the Telegram client and send mess
 
 3. Capture the search bar  
     - Click `Capture` button  
-    ![capture button](./pic/capturebutton.png)  
+    ![capture button](./pic/capturebutton.png)  <!-- #(https://s1.328888.xyz/2022/10/08/fW1Rm.png) -->
     - Use `Ctrl + Click` to capture search bar   
-    ![search bar](./pic/contactssearchbar.png)  
+    ![search bar](./pic/contactssearchbar.png)   
+    <!-- https://s1.328888.xyz/2022/10/08/fWKVk.png -->
     - Get the search bar locator  
     ![search bar locator](./pic/searchbarlocator.png)  
+    <!-- https://s1.328888.xyz/2022/10/08/fWcpE.png -->
     - Validate the locator  
     ![validate locator](./pic/validatelocator.png)
+    <!-- https://s1.328888.xyz/2022/10/08/fW2FJ.png -->
     The validation would be failed. The most simple way to debug this issue, we can use a new feature provided by Clicknium: `Recapture & Compare`
-    ![recatpure](./pic/recapture.png)  
+    ![recatpure](./pic/recapture.png) 
+    <!-- https://s1.328888.xyz/2022/10/08/fWJpo.png  -->
     After recapturing the search bar, we can get the compared model to check the difference between the old and new. 
     ![compare](./pic/compare.png)  
+    <!-- https://s1.328888.xyz/2022/10/08/fWyOF.png -->
     It's easy to get the difference between the old and new is the `name` attribute. There is a number that follows the word "Telegram."
     We can use the [wildcard](https://www.clicknium.com/documents/concepts/locator#wildcard-locator) to fix it by changing the number `383784` to `*` and saving the locator. 
     Validate again, and it will succeed. 
