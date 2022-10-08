@@ -3,9 +3,9 @@
 It is a sample of using Python code to control the Telegram client and send messages to contacts and the Telegram channel. 
 
 ## Step by Step 
-1. Set up Clicknium 
+1. [Set up Clicknium](https://github.com/clicknium/clicknium-docs#set-up-clicknium-visual-studio-code-extension) 
     - Install VS Code Clicknium [Extension](https://marketplace.visualstudio.com/items?itemName=ClickCorp.clicknium)
-    - Use the extension to install Clicknium Python [SDK](https://pypi.org/project/clicknium/)
+    - Use the extension to install Clicknium Python [SDK](https://pypi.org/project/clicknium/) 
 
 2. Log in to your Telegram client.
 
